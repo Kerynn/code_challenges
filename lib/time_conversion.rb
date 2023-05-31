@@ -13,7 +13,6 @@ def timeConversion(s)
     end
 
     time[0] = hh
-    binding.pry
     time.join(':')
 end
 
